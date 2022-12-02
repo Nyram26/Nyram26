@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nyram26
+- 👀 I’m interested in coding stuff
+- 🌱 I’m currently learning C++, C# and Python
